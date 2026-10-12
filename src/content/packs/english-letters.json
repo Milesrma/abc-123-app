@@ -1,0 +1,430 @@
+{
+  "id": "english-letters",
+  "version": 1,
+  "language": "en",
+  "theme": "primary",
+  "title": {
+    "en": "ABC"
+  },
+  "activities": [
+    "learn"
+  ],
+  "items": [
+    {
+      "id": "en-a",
+      "glyph": "A",
+      "word": {
+        "en": "Apple"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/a.ogg",
+          "word": "audio/en/words/apple.ogg"
+        }
+      },
+      "image": "images/en/a.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-b",
+      "glyph": "B",
+      "word": {
+        "en": "Ball"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/b.ogg",
+          "word": "audio/en/words/ball.ogg"
+        }
+      },
+      "image": "images/en/b.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-c",
+      "glyph": "C",
+      "word": {
+        "en": "Cat"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/c.ogg",
+          "word": "audio/en/words/cat.ogg"
+        }
+      },
+      "image": "images/en/c.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-d",
+      "glyph": "D",
+      "word": {
+        "en": "Dog"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/d.ogg",
+          "word": "audio/en/words/dog.ogg"
+        }
+      },
+      "image": "images/en/d.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-e",
+      "glyph": "E",
+      "word": {
+        "en": "Elephant"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/e.ogg",
+          "word": "audio/en/words/elephant.ogg"
+        }
+      },
+      "image": "images/en/e.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-f",
+      "glyph": "F",
+      "word": {
+        "en": "Fish"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/f.ogg",
+          "word": "audio/en/words/fish.ogg"
+        }
+      },
+      "image": "images/en/f.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-g",
+      "glyph": "G",
+      "word": {
+        "en": "Grapes"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/g.ogg",
+          "word": "audio/en/words/grapes.ogg"
+        }
+      },
+      "image": "images/en/g.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-h",
+      "glyph": "H",
+      "word": {
+        "en": "Hat"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/h.ogg",
+          "word": "audio/en/words/hat.ogg"
+        }
+      },
+      "image": "images/en/h.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-i",
+      "glyph": "I",
+      "word": {
+        "en": "Ice cream"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/i.ogg",
+          "word": "audio/en/words/ice-cream.ogg"
+        }
+      },
+      "image": "images/en/i.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-j",
+      "glyph": "J",
+      "word": {
+        "en": "Juice"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/j.ogg",
+          "word": "audio/en/words/juice.ogg"
+        }
+      },
+      "image": "images/en/j.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-k",
+      "glyph": "K",
+      "word": {
+        "en": "Kite"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/k.ogg",
+          "word": "audio/en/words/kite.ogg"
+        }
+      },
+      "image": "images/en/k.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-l",
+      "glyph": "L",
+      "word": {
+        "en": "Lion"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/l.ogg",
+          "word": "audio/en/words/lion.ogg"
+        }
+      },
+      "image": "images/en/l.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-m",
+      "glyph": "M",
+      "word": {
+        "en": "Moon"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/m.ogg",
+          "word": "audio/en/words/moon.ogg"
+        }
+      },
+      "image": "images/en/m.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-n",
+      "glyph": "N",
+      "word": {
+        "en": "Nest"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/n.ogg",
+          "word": "audio/en/words/nest.ogg"
+        }
+      },
+      "image": "images/en/n.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-o",
+      "glyph": "O",
+      "word": {
+        "en": "Orange"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/o.ogg",
+          "word": "audio/en/words/orange.ogg"
+        }
+      },
+      "image": "images/en/o.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-p",
+      "glyph": "P",
+      "word": {
+        "en": "Pig"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/p.ogg",
+          "word": "audio/en/words/pig.ogg"
+        }
+      },
+      "image": "images/en/p.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-q",
+      "glyph": "Q",
+      "word": {
+        "en": "Queen"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/q.ogg",
+          "word": "audio/en/words/queen.ogg"
+        }
+      },
+      "image": "images/en/q.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-r",
+      "glyph": "R",
+      "word": {
+        "en": "Rainbow"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/r.ogg",
+          "word": "audio/en/words/rainbow.ogg"
+        }
+      },
+      "image": "images/en/r.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-s",
+      "glyph": "S",
+      "word": {
+        "en": "Sun"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/s.ogg",
+          "word": "audio/en/words/sun.ogg"
+        }
+      },
+      "image": "images/en/s.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-t",
+      "glyph": "T",
+      "word": {
+        "en": "Tree"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/t.ogg",
+          "word": "audio/en/words/tree.ogg"
+        }
+      },
+      "image": "images/en/t.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-u",
+      "glyph": "U",
+      "word": {
+        "en": "Umbrella"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/u.ogg",
+          "word": "audio/en/words/umbrella.ogg"
+        }
+      },
+      "image": "images/en/u.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-v",
+      "glyph": "V",
+      "word": {
+        "en": "Van"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/v.ogg",
+          "word": "audio/en/words/van.ogg"
+        }
+      },
+      "image": "images/en/v.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-w",
+      "glyph": "W",
+      "word": {
+        "en": "Whale"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/w.ogg",
+          "word": "audio/en/words/whale.ogg"
+        }
+      },
+      "image": "images/en/w.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-x",
+      "glyph": "X",
+      "word": {
+        "en": "Xylophone"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/x.ogg",
+          "word": "audio/en/words/xylophone.ogg"
+        }
+      },
+      "image": "images/en/x.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-y",
+      "glyph": "Y",
+      "word": {
+        "en": "Yo-yo"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/y.ogg",
+          "word": "audio/en/words/yo-yo.ogg"
+        }
+      },
+      "image": "images/en/y.png",
+      "tracing": null,
+      "free": true
+    },
+    {
+      "id": "en-z",
+      "glyph": "Z",
+      "word": {
+        "en": "Zebra"
+      },
+      "audio": {
+        "en": {
+          "name": "audio/en/letters/z.ogg",
+          "word": "audio/en/words/zebra.ogg"
+        }
+      },
+      "image": "images/en/z.png",
+      "tracing": null,
+      "free": true
+    }
+  ]
+}
